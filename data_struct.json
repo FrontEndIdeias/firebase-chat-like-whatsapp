@@ -1,0 +1,27 @@
+{
+  "chats" : [
+    {
+      "id"                : "-JhLeOlGIEjaIOFHR0xd",
+      "professional_id"   : "12012",
+      "professional_name" : "Cleiton Tavares",
+      "professional_tip"  : false,
+      "pattient_id"       : "01202",
+      "pattient_name"     : "Marty McFly",
+      "pattient_tip"      : true,
+      "last_seed"         : "Thu Sep 10 2015 17:14:45 GMT-0300 (Hora oficial do Brasil)",
+      "messages"          : [
+        {
+          "media"          : true,
+          "text"           : "",
+          "amazon_uri"     : "",
+          "sender_id"      : "01202",
+          "sender_name"    : "Marty McFly",
+          "reciver_name"   : "Cleiton Tavares",
+          "reciver_id"     : "12012",
+          "reciver_name"   : "Cleiton Tavares",
+          "send_date"      : "Thu Sep 10 2015 17:14:45 GMT-0300 (Hora oficial do Brasil)"
+        }
+      ]
+    }
+  ]
+}
